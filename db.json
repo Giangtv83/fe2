@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "name": "Iphone 13 Pro Max",
+      "price": 20000000,
+      "categoryId": 1,
+      "image": "http://res.cloudinary.com/chanh-thon/image/upload/v1669565936/upload_preset/drnrypjzdepu01am2jag.jpg",
+      "desc": "<p>hay</p>",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Apple Watch serri 10",
+      "price": 8000000,
+      "categoryId": 1,
+      "image": "http://res.cloudinary.com/chanh-thon/image/upload/v1669568270/upload_preset/m7au3ogr9vxpqpcjrnd6.png",
+      "desc": "<p>hahaha</p>"
+    },
+    {
+      "id": 7,
+      "name": "Iphone 13 Pro Max",
+      "price": 25000000,
+      "categoryId": 1,
+      "image": "http://res.cloudinary.com/dbo0o124i/image/upload/v1669619844/fd6qsvqbdwugtkuwfxek.jpg",
+      "desc": "<p>hay</p>"
+    },
+    {
+      "id": 8,
+      "name": "Galaxy 22 Plus",
+      "price": 15000000,
+      "categoryId": 3,
+      "image": "http://res.cloudinary.com/dbo0o124i/image/upload/v1670226831/fcpgboitdulrbjn6ih8h.jpg",
+      "desc": "<p>Samsung number 1</p>"
+    },
+    {
+      "name": "Xiaomi Black Shark 4 Pro",
+      "price": 20000000,
+      "categoryId": 5,
+      "image": "http://res.cloudinary.com/dbo0o124i/image/upload/v1670226867/fdvwpf4z4eleuakymtpc.jpg",
+      "desc": "<p>máy này chơi game maxping hay</p>",
+      "id": 9
+    }
+  ],
+  "categorys": [
+    {
+      "id": 1,
+      "name": "Iphone",
+      "image": "http://res.cloudinary.com/dbo0o124i/image/upload/v1669796052/apgbhwysnjrtac7metzb.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "image": "http://res.cloudinary.com/dbo0o124i/image/upload/v1669796145/guwtyiomy0wn7qdjul4n.jpg"
+    },
+    {
+      "id": 3,
+      "name": "SamSung",
+      "image": "http://res.cloudinary.com/dbo0o124i/image/upload/v1669796163/mmyq0qxijdywwviagkot.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi",
+      "image": "http://res.cloudinary.com/dbo0o124i/image/upload/v1669796341/zain515booc7wmrffeic.png"
+    },
+    {
+      "name": "Tai nghe",
+      "image": "http://res.cloudinary.com/dbo0o124i/image/upload/v1669796190/q5ycdb47de389slyzcdz.jpg",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "giangtv123@gmail.com",
+      "password": "123456",
+      "username": "Văn Giang",
+      "role": "admin",
+      "image": "https://ui-avatars.com/api/?uppercase=true&name=Hoàng Nam&background=336699&size=500",
+      "id": 1
+    }
+  ]
+}
